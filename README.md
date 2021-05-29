@@ -1,5 +1,5 @@
 **ALX**
-![alxlogo](https://lh3.googleusercontent.com/Ac1cTLN5PaGfFTBiv6SOIVjDX47DrQcEhwEi0SJHU6mkk0vDsyOmBJhoa3bwkclUT9fs-NKgz_i9CRqz85iw_FusHaddlTl53xk=s0)
+![alxlogo](https://lh3.googleusercontent.com/-OzHyzsPC8e0nNuPBbi5ajxfofKp6fH5IXjvXs75DXN4Zb9DHeFJ3SdXVhJJ10uJpdUU2tn4B1PQS8mFUJwra6KyFcQOfoQYuzk=s0)
 ---
 ___
 **ALX SCHOOL PROJECT**
